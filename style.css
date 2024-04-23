@@ -64,6 +64,7 @@ body{
 
 #result-score p{
     font-size: .8rem;
+    color: var(--neu-light-lavender);
 }
 
 #result-great h2 {
